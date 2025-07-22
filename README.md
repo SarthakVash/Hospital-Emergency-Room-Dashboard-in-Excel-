@@ -22,3 +22,7 @@ Excel Visualization Techniques to design a fully interactive dashboard
 
 This project demonstrates how Excel, when used efficiently, can be a powerful tool for healthcare analytics and data-driven decision-making.
 
+
+
+<img width="1443" height="652" alt="s1" src="https://github.com/user-attachments/assets/60fe23a7-dcb2-4680-864e-c5ffd49959c1" />
+
